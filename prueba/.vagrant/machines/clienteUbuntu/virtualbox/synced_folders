@@ -1,0 +1,1 @@
+{"virtualbox":{"/demo-replica":{"guestpath":"/demo-replica","hostpath":"C:/Users/Jhon Caicedo/demo-replica","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Jhon Caicedo/prueba","disabled":false,"__vagrantfile":true}}}
